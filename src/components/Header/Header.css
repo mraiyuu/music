@@ -1,0 +1,17 @@
+header {
+    min-height: 100vh;
+    background-image: url('../../assets/header.png');
+    background-size: cover;
+    background-position: center;
+}
+
+header .wrapper {
+    position: relative;
+    height: 100vh;
+}
+
+header .cta{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}

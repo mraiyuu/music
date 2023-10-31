@@ -13,5 +13,23 @@ import thumbnail_2 from './thumbnail_2.png';
 import thumbnail_3 from './thumbnail_3.png';
 import thumbnail from './thumbnail.png';
 import twitterLogo from './twitterLogo.svg';
+import header2 from './header2.png';
 
-export { facebookLogo, frame4, group_7, header, instagramLogo, menuIcon, rectangle_19_2, reactangle_19_3, rectangle_19, students, studentH, thumbnail_2, thumbnail_3, thumbnail, twitterLogo };
+export {
+    facebookLogo,
+    frame4,
+    group_7,
+    header,
+    instagramLogo,
+    menuIcon,
+    rectangle_19_2,
+    reactangle_19_3,
+    rectangle_19,
+    students,
+    studentH,
+    thumbnail_2,
+    thumbnail_3,
+    thumbnail,
+    twitterLogo,
+    header2,
+};
