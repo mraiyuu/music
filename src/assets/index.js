@@ -7,8 +7,7 @@ import menuIcon from './menuIcon.svg';
 import rectangle_19_2 from './rectangle_19_2.png';
 import reactangle_19_3 from './rectangle_19_3.png';
 import rectangle_19 from './rectangle_19.png';
-import students from './students.png';
-import studentH from './studentsH.png';
+import student from './student.svg';
 import thumbnail_2 from './thumbnail_2.png';
 import thumbnail_3 from './thumbnail_3.png';
 import thumbnail from './thumbnail.png';
@@ -21,6 +20,7 @@ import mixing from './mixing.png';
 import mixingConsole from './mixingConsole.png';
 import mastering from './mastering.png';
 import element from './element.svg';
+import hours from './hours.svg';
 
 export {
     facebookLogo,
@@ -32,8 +32,7 @@ export {
     rectangle_19_2,
     reactangle_19_3,
     rectangle_19,
-    students,
-    studentH,
+    student,
     thumbnail_2,
     thumbnail_3,
     thumbnail,
@@ -46,5 +45,6 @@ export {
     mixingConsole,
     mastering,
     element,
+    hours,
 
 };
