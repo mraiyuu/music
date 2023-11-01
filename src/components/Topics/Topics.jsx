@@ -1,6 +1,6 @@
 import React from "react";
 import "./Topics.css";
-
+import { frequencies } from '../../assets';
 
 const Topics = () => {
   return (
