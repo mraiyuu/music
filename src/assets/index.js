@@ -14,6 +14,13 @@ import thumbnail_3 from './thumbnail_3.png';
 import thumbnail from './thumbnail.png';
 import twitterLogo from './twitterLogo.svg';
 import header2 from './header2.png';
+import frequencies from './frequencies.png';
+import daw from './daw.png';
+import vocalProcessing from './vocalProcessing.png';
+import mixing from './mixing.png';
+import mixingConsole from './mixingConsole.png';
+import mastering from './mastering.png';
+
 
 export {
     facebookLogo,
@@ -32,4 +39,11 @@ export {
     thumbnail,
     twitterLogo,
     header2,
+    frequencies,
+    daw,
+    vocalProcessing,
+    mixing,
+    mixingConsole,
+    mastering,
+
 };
