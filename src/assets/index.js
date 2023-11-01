@@ -20,7 +20,7 @@ import vocalProcessing from './vocalProcessing.png';
 import mixing from './mixing.png';
 import mixingConsole from './mixingConsole.png';
 import mastering from './mastering.png';
-
+import element from './element.svg';
 
 export {
     facebookLogo,
@@ -45,5 +45,6 @@ export {
     mixing,
     mixingConsole,
     mastering,
+    element,
 
 };
