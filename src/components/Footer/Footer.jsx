@@ -5,12 +5,13 @@ import { facebookLogo, twitterLogo, instagramLogo } from '../../assets';
 const Footer = () => {
   return (
     <footer className="black">
+      <div className="wrapper">
       <div className="content-container">
         <div className="links">
           <a href="#" className="logo">
             Sound<span className="red">SZign</span>
           </a>
-          <div className="social-icon">
+          <div className="social-icons">
             <a href="#">
               <img src={facebookLogo}/>
             </a>
@@ -20,11 +21,12 @@ const Footer = () => {
             <a href="#">
               <img src={instagramLogo}/>
             </a>
-            <div className="copy-right">
-            This website is designed by Mraiyuu Ⓒ 2023
-            </div>
+            
 
           </div>
+          <div className="copy-right">
+            This website is designed by Mraiyuu Ⓒ 2023
+            </div>
           <div className="quick-links">
             <h3>Quick Links</h3>
             <ul>
@@ -53,6 +55,8 @@ const Footer = () => {
           </div>
         </div>
       </div>
+      </div>
+      
     </footer>
   )
 }
