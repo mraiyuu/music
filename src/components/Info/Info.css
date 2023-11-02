@@ -5,3 +5,25 @@
   align-items: center;
   flex-direction: column;
 }
+
+#info .info-content .amount {
+    font-size: 40px;
+    font-weight: 800;
+    
+}
+
+#info .info-content .type {
+    font-family: "Alegreya", serif;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+#info .wrapper {
+    position: relative;
+}
+
+#info .bg-element-2 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
