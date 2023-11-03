@@ -59,3 +59,13 @@
     border-radius: 10px;
     margin-top: 30px;
 }
+
+/* Tablet version */
+@media (max-width: 1040px) {
+    #blog .content-container {
+        grid-template-columns: 1fr 1fr;
+    }
+    #blog .post:nth-child(3) {
+        grid-column: 1/3;
+    }
+}
